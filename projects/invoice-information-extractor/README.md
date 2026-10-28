@@ -1,6 +1,6 @@
 # AI-103 Project: Invoice Information Extractor
 
-**Portfolio timeline:** Learning began in September 2026; this project scaffold was added to GitHub in October 2026.  
+**Timeline:** Related AI-103 study/practice took place in September 2026; this project's scaffold was added to GitHub in October 2026.  
 **Status:** Starter code; Azure execution and validation are pending.
 
 Extract common invoice fields from a local invoice PDF using Azure AI Document Intelligence's prebuilt invoice model.
